@@ -7,4 +7,4 @@ number3= parseInt(prompt("Please enter number 3"))
 number4= parseInt(prompt("Please enter number 4"))
 number5= parseInt(prompt("Please enter number 5"))
 
-console.log (number1 + number2 + number3 + number4 + number5)
+console.log ("Your sum is " + (number1 + number2 + number3 + number4 + number5))
